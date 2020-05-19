@@ -30,4 +30,20 @@ public class NomCognom{
 
         return true;
     }
+
+    public int getEdat() {
+        return edat;
+    }
+
+    public void setEdat(int edat) {
+        this.edat = edat;
+    }
+
+    public String getTel() {
+        return tel;
+    }
+
+    public void setTel(String tel) {
+        this.tel = tel;
+    }
 }
